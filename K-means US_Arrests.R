@@ -1,5 +1,6 @@
 #Importing data
 data("USArrests")
+str(USArrests)
 #Looking at the data
 head(USArrests)
 tail(USArrests)
